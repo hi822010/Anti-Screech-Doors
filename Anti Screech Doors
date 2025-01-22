@@ -1,1 +1,6 @@
-game.StarterGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech:Destroy()
+-- SCREECH REMOVER FREE
+screech = true
+
+if screech then
+workspace:ClearAllChildren()
+end
